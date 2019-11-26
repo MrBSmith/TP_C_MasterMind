@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574761784 source:d:\projets programmation\mastermind\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
